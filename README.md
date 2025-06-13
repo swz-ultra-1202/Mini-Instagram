@@ -82,7 +82,8 @@ This is a C++ project that simulates a simplified version of Instagram. It inclu
 ## Author
 
 Muhammad Shah Nawaz
-Email : shahnawaz.swz1202@gmail.com
+
+Email: shahnawaz.swz1202@gmail.com
 
 
 ## License
